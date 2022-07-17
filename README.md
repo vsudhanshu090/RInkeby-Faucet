@@ -15,7 +15,7 @@ and the contract is deployed on rinkeby blockchain using javascript and hardhat 
 **FRONTEND**
 Languages used : HTML, CSS, Javascript
 
-The website is created using HTML, CSS and bootstrap
+The website is created using HTML, CSS and bootstrap framework
 
 "scripts.js" file is attached to the front through which we interact with our contract using ethers.js. We use the contract address and ABI of our 
 deployed contract to use the functions made in our solidity file
