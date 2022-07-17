@@ -3,7 +3,7 @@ A smart contract hosted on a website through which users can receive rinkeby eth
 
 The repository is divided into two sections, the frontend, and the backend
 
---BACKEND
+**BACKEND**
 Languages used : Solidity, Javascript
 
 Solidity is used to create a smart contract consisting mainly of two functions (send and withdraw)
@@ -12,7 +12,7 @@ Solidity is used to create a smart contract consisting mainly of two functions (
 
 and the contract is deployed on rinkeby blockchain using javascript and hardhat (an ethereum development environment)
 
---FRONTEND
+**FRONTEND**
 Languages used : HTML, CSS, Javascript
 
 The website is created using HTML, CSS and bootstrap
